@@ -7,7 +7,6 @@ using LogicAPI.Data;
 using LogicSettings;
 using LogicWorld.ClientCode;
 using LogicWorld.Interfaces;
-using LogicSettings;
 
 namespace RetroLights {
     public class RetroLights : ClientMod
